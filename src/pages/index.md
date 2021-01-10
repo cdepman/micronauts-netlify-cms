@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Micronaut*
-image: /img/pattern.png
+image: /img/pattern.svg
 heading: Great coffee with a conscience
 subheading: "* One who explores microscopic worlds"
 mainpitch:
