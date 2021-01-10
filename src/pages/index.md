@@ -1,20 +1,17 @@
 ---
 templateKey: index-page
 title: Micronaut*
-image: /img/pattern.svg
+image: /img/pattern-1-.svg
 heading: Great coffee with a conscience
 subheading: "* One who explores microscopic worlds"
 mainpitch:
   title: Why Explore Microscopic Worlds?
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  description: "The answers to so many questions sit right in front of us, around
+    us, inside us - we've only begun to understand how our world works. Major
+    advances in our understanding of and approach to health, disease,
+    agriculture, climate, energy have been unlocked at the microscopic level "
+description: Micronaut is your best resource for learning about microscopy and
+  exploring microscopic worlds
 intro:
   blurbs:
     - image: /img/coffee.png
