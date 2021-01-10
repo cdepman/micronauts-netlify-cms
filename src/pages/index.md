@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Micronaut*
-image: /img/pattern-1-.svg
-heading: Great coffee with a conscience
+image: /img/pattern-1-.png
+heading: Biotech is where computing was 50 years ago.
 subheading: "* One who explores microscopic worlds"
 mainpitch:
   title: Why Explore Microscopic Worlds?
