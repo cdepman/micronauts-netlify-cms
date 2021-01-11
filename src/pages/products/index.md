@@ -1,13 +1,11 @@
 ---
-heading: Great coffee with a conscience
+heading: Powerful Exploration Tools
 path: /products
 templateKey: product-page
 title: Microscopes
 image: /img/pattern-7-.png
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Microscopes are powerful tools that help us see structures, cells,
+  and processes that far beyond what we can see with our unaided eyes.
 intro:
   blurbs:
     - image: /img/coffee.png
