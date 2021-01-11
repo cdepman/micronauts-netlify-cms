@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Micronaut',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'this repo contains the source code for the Micronaut website',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -21,6 +21,12 @@ module.exports = {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },
+    },
+    {
+      resolve: 'gatsby-plugin-emoji-favicon',
+      options: {
+        emoji: '🔬'
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
@@ -60,14 +66,12 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Fraunces`,
-            subsets: [`900`],
-          },
+          "Fraunces\:900",
         ],
+        display: 'swap'
       },
     },
     {
