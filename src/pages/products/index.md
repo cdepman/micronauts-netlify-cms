@@ -30,13 +30,13 @@ main:
     venenatis lacus dictum vulputate.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/videoblocks-close-up-shot-of-unrecognizable-hand-in-glove-revolving-nosepiece-of-microscope-and-choosing-objective-lens_bbwnculuu_thumbnail-1080_01.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/row-of-microscopes.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/bsb-featured-image-9.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
@@ -46,7 +46,7 @@ testimonials:
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
       sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
       venenatis lacus dictum vulputate.
-full_image: /img/products-full-width.jpg
+full_image: /img/videoblocks-lab-doctor-looking-microscope-science-doctor-microscope-research-lab-woman-looking-medical-microscope-lab-medical-research-doctor-scientist-looking-through-microscope_sujth7r9l_thumbnail-1080_01.png
 pricing:
   heading: Purchasing a Microscope
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
