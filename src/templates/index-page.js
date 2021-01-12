@@ -18,13 +18,11 @@ export const IndexPageTemplate =  ({
 }) => (
   <div>
     <div
-      className="full-width-image margin-top-0"
+      className="full-width-image-container margin-top-0"
       style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
       }}
     >
       <div
@@ -91,7 +89,7 @@ export const IndexPageTemplate =  ({
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all products
+                      See all microscopes
                     </Link>
                   </div>
                 </div>
