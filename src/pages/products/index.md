@@ -32,10 +32,10 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/videoblocks-close-up-shot-of-unrecognizable-hand-in-glove-revolving-nosepiece-of-microscope-and-choosing-objective-lens_bbwnculuu_thumbnail-1080_01.png
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Microscopes in a lab
     image: /img/row-of-microscopes.png
   image3:
-    alt: Coffee beans
+    alt: Objective lenses
     image: /img/bsb-featured-image-9.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
