@@ -33,7 +33,7 @@ main:
     image: /img/videoblocks-close-up-shot-of-unrecognizable-hand-in-glove-revolving-nosepiece-of-microscope-and-choosing-objective-lens_bbwnculuu_thumbnail-1080_01.png
   image2:
     alt: Microscopes in a lab
-    image: /img/row-of-microscopes.png
+    image: /img/videoblocks-close-up-shot-of-unrecognizable-hand-in-glove-revolving-nosepiece-of-microscope-and-choosing-objective-lens_bbwnculuu_thumbnail-1080_01.png
   image3:
     alt: Objective lenses
     image: /img/bsb-featured-image-9.jpg
