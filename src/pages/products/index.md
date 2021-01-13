@@ -30,13 +30,13 @@ main:
     venenatis lacus dictum vulputate.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/videoblocks-close-up-shot-of-unrecognizable-hand-in-glove-revolving-nosepiece-of-microscope-and-choosing-objective-lens_bbwnculuu_thumbnail-1080_01.png
+    image: /img/flavor_wheel.jpg
   image2:
     alt: Microscopes in a lab
-    image: /img/videoblocks-close-up-shot-of-unrecognizable-hand-in-glove-revolving-nosepiece-of-microscope-and-choosing-objective-lens_bbwnculuu_thumbnail-1080_01.png
+    image: /img/flavor_wheel.jpg
   image3:
     alt: Objective lenses
-    image: /img/bsb-featured-image-9.jpg
+    image: /img/flavor_wheel.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
