@@ -5,7 +5,7 @@ templateKey: product-page
 title: Microscopes
 image: /img/pattern-7-.png
 description: Microscopes are powerful tools that help us see structures, cells,
-  and processes that far beyond what we can see with our unaided eyes.
+  and processes that far beyond what we can see with eyes alone.
 intro:
   blurbs:
     - image: /img/2a4e51f5b8cc7a34f32e789c7dc69d12.png
