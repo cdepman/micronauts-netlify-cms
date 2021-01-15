@@ -30,13 +30,13 @@ main:
     venenatis lacus dictum vulputate.
   image1:
     alt: A lab of microscopes
-    image: /img/row-of-microscopes.png
+    image: /img/pattern (8).png
   image2:
     alt: Microscopes in a lab
-    image: /img/bsb-featured-image-9.jpg
+    image: /img/pattern (8).png
   image3:
     alt: Objective lenses
-    image: /img/bsb-featured-image-9.jpg
+    image: /img/pattern (8).png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
@@ -46,7 +46,7 @@ testimonials:
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
       sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
       venenatis lacus dictum vulputate.
-full_image: /img/microscope1.png
+full_image: /img/pattern-7-.png
 pricing:
   heading: Purchasing a Microscope
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
