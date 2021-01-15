@@ -37,7 +37,7 @@ testimonials:
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
       sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
       venenatis lacus dictum vulputate.
-full_image: /img/pattern-7-.png
+full_image: /img/bsb-featured-image-9.jpg
 pricing:
   heading: Purchasing a Microscope
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
