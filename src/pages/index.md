@@ -19,15 +19,15 @@ intro:
     - image: /img/2a4e51f5b8cc7a34f32e789c7dc69d12.png
       text: Microscopes are an endless source of discovery
     - image: /img/2cd43b_38525161ce5a4b789e2ca6c54caa3a93_mv2.png
-      text: A high quality microscope can last decades
+      text: Micronauts are exploring the next frontier in natural sciences, biology,
+        healthcare, genetics, and biotech.
     - image: /img/2a4e51f5b8cc7a34f32e789c7dc69d12.png
       text: >
         Everything around you is waiting to be explored. Your hair, your
         dog/cat's hair, your tap water, a drop of milk, a grain of sand, a
         crystal of salt, a thread from your t-shirt, the wing of a house fly.
     - image: /img/unnamed.png
-      text: Micronauts are exploring the next frontier in natural sciences, biology,
-        healthcare, genetics, and biotech.
+      text: A high quality microscope can last decades
   heading: Who we are
   description: We want to empower more people to explore the worlds that exist
     within us, within the air we breathe, the water we drink, and the materials
