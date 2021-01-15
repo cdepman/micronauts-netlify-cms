@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Micronaut*
 subheading: "* An explorer of microscopic worlds"
-image: /img/pattern-9-.png
+image: /img/pattern-10.png
 heading: The “next big thing” in science and technology is often too small to see.
 mainpitch:
   title: Why Explore Microscopic Worlds?
