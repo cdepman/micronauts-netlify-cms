@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Micronaut*
-subheading: "* One who explores microscopic worlds"
+subheading: "* An explorer of microscopic worlds"
 image: /img/pattern-9-.png
 heading: Biotech is where computing was 50 years ago.
 mainpitch:
