@@ -46,7 +46,7 @@ testimonials:
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
       sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
       venenatis lacus dictum vulputate.
-full_image: /img/videoblocks-lab-doctor-looking-microscope-science-doctor-microscope-research-lab-woman-looking-medical-microscope-lab-medical-research-doctor-scientist-looking-through-microscope_sujth7r9l_thumbnail-1080_01.png
+full_image: /img/microscope1.png
 pricing:
   heading: Purchasing a Microscope
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
