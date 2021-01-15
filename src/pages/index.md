@@ -1,17 +1,19 @@
 ---
 templateKey: index-page
 title: Micronaut*
+subheading: "* One who explores microscopic worlds"
 image: /img/pattern-9-.png
 heading: Biotech is where computing was 50 years ago.
-subheading: "* One who explores microscopic worlds"
 mainpitch:
   title: Why Explore Microscopic Worlds?
-  description: The answers to so many questions sit right in front of us, around
-    us, inside us - we've only begun to understand how our world works. Major
-    advances in our understanding of and approach to health, disease,
-    agriculture, climate, energy have been unlocked at the microscopic level.
-description: Micronaut is your best resource for learning about microscopy and
-  exploring microscopic worlds
+  description: "Micronauts are like astronauts -- but exploring the world at a
+    scale where amoebas are fearsome predators: computer circuits are like city
+    streets viewed from space; and chemical or geological crystals become jaw-
+    dropping art."
+description: The answers to so many questions sit right in front of us, around
+  us, inside us - we've only begun to understand how our world works. Major
+  advances in our understanding of and approach to health, disease, agriculture,
+  climate, energy have been unlocked at the microscopic level.
 intro:
   blurbs:
     - image: /img/2a4e51f5b8cc7a34f32e789c7dc69d12.png
