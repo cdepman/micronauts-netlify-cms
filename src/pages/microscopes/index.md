@@ -29,14 +29,14 @@ main:
     sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
     venenatis lacus dictum vulputate.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/bsb-featured-image-9.jpg
+    alt: A lab of microscopes
+    image: /img/row-of-microscopes.png
   image2:
     alt: Microscopes in a lab
-    image: /img/row-of-microscopes.png
+    image: /img/bsb-featured-image-9.jpg
   image3:
     alt: Objective lenses
-    image: /img/videoblocks-close-up-shot-of-unrecognizable-hand-in-glove-revolving-nosepiece-of-microscope-and-choosing-objective-lens_bbwnculuu_thumbnail-1080_01.png
+    image: /img/bsb-featured-image-9.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
