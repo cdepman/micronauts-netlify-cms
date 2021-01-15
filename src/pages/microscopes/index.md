@@ -28,15 +28,6 @@ main:
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
     sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
     venenatis lacus dictum vulputate.
-  image1:
-    alt: A lab of microscopes
-    image: /img/pattern (8).png
-  image2:
-    alt: Microscopes in a lab
-    image: /img/pattern (8).png
-  image3:
-    alt: Objective lenses
-    image: /img/pattern (8).png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
