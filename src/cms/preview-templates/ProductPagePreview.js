@@ -12,6 +12,7 @@ const ProductPagePreview = ({ entry, getAsset }) => {
   const entryPricingPlans = entry.getIn(['data', 'pricing', 'plans'])
   const pricingPlans = entryPricingPlans ? entryPricingPlans.toJS() : []
 
+  console.log(entry)
   return (
     <ProductPageTemplate
       image={getAsset(entry.getIn(['data', 'image']))}
