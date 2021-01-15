@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { ProductPageTemplate } from '../../templates/product-page'
+import { MicroscopePageTemplate } from '../../templates/microscopes-page'
 
-const ProductPagePreview = ({ entry, getAsset }) => {
+const MicroscopePagePreview = ({ entry, getAsset }) => {
   const entryBlurbs = entry.getIn(['data', 'intro', 'blurbs'])
   const blurbs = entryBlurbs ? entryBlurbs.toJS() : []
 
@@ -14,7 +14,7 @@ const ProductPagePreview = ({ entry, getAsset }) => {
 
   console.log(entry)
   return (
-    <ProductPageTemplate
+    <MicroscopePageTemplate
       image={getAsset(entry.getIn(['data', 'image']))}
       title={entry.getIn(['data', 'title'])}
       heading={entry.getIn(['data', 'heading'])}
@@ -47,11 +47,11 @@ const ProductPagePreview = ({ entry, getAsset }) => {
   )
 }
 
-ProductPagePreview.propTypes = {
+MicroscopePagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   getAsset: PropTypes.func,
 }
 
-export default ProductPagePreview
+export default MicroscopePagePreview

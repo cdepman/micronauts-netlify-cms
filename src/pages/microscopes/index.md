@@ -1,19 +1,19 @@
 ---
 heading: Powerful Exploration Tools
 path: /microscopes
-templateKey: product-page
+templateKey: microscopes-page
 title: Microscopes
-image: ../../img/pattern-7-.png
+image: img/pattern-7-.png
 description: Microscopes are powerful tools that help us see structures, cells,
   and processes that far beyond what we can see with eyes alone.
 intro:
   blurbs:
-    - image: ../../img/2a4e51f5b8cc7a34f32e789c7dc69d12.png
+    - image: img/2a4e51f5b8cc7a34f32e789c7dc69d12.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
         sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
         venenatis lacus dictum vulputate.
-    - image: ../../img/purepng.com-microscopemicroscopeinstrumentsmallmicroscopy-1701527908431prcpc.png
+    - image: img/purepng.com-microscopemicroscopeinstrumentsmallmicroscopy-1701527908431prcpc.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
         sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
@@ -30,13 +30,13 @@ main:
     venenatis lacus dictum vulputate.
   image1:
     alt: A lab of microscopes
-    image: ../../img/row-of-microscopes.png
+    image: img/row-of-microscopes.png
   image2:
     alt: Microscopes in a lab
-    image: ../../img/bsb-featured-image-9.jpg
+    image: img/bsb-featured-image-9.jpg
   image3:
     alt: Objective lenses
-    image: ../../img/bsb-featured-image-9.jpg
+    image: img/bsb-featured-image-9.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
@@ -46,7 +46,7 @@ testimonials:
     quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis
       sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
       venenatis lacus dictum vulputate.
-full_image: ../../img/microscope1.png
+full_image: img/microscope1.png
 pricing:
   heading: Purchasing a Microscope
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis

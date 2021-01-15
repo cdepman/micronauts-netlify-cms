@@ -143,7 +143,7 @@ collections:
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
-              default: "product-page",
+              default: "microscopes",
             }
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }
