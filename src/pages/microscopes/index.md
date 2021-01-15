@@ -29,7 +29,7 @@ main:
     sollicitudin nisi ac aliquam. Praesent tincidunt accumsan lorem, at
     venenatis lacus dictum vulputate.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A lab of microscopes
     image: /img/row-of-microscopes.png
   image2:
     alt: Microscopes in a lab
