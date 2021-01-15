@@ -1,6 +1,6 @@
 ---
 heading: Powerful Exploration Tools
-path: /products
+path: /microscopes
 templateKey: product-page
 title: Microscopes
 image: /img/pattern-7-.png
