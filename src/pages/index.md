@@ -21,7 +21,7 @@ intro:
     - image: /img/2cd43b_38525161ce5a4b789e2ca6c54caa3a93_mv2.png
       text: Micronauts are exploring the next frontier in natural sciences, biology,
         healthcare, genetics, and biotech.
-    - image: /img/2a4e51f5b8cc7a34f32e789c7dc69d12.png
+    - image: /img/purepng.com-microscopemicroscopeinstrumentsmallmicroscopy-1701527908431prcpc.png
       text: >
         Everything around you is waiting to be explored. Your hair, your
         dog/cat's hair, your tap water, a drop of milk, a grain of sand, a
