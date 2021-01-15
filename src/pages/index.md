@@ -3,13 +3,13 @@ templateKey: index-page
 title: Micronaut*
 subheading: "* An explorer of microscopic worlds"
 image: /img/pattern-9-.png
-heading: Biotech is where computing was 50 years ago.
+heading: The “next big thing” in science and technology is often too small to see.
 mainpitch:
   title: Why Explore Microscopic Worlds?
-  description: "Micronauts are like astronauts -- but exploring the world at a
-    scale where amoebas are fearsome predators: computer circuits are like city
-    streets viewed from space; and chemical or geological crystals become jaw-
-    dropping art."
+  description: Micronauts are like astronauts - but exploring the world at a scale
+    where amoebas are fearsome predators; computer circuits are like city
+    streets viewed from space; and chemical or geological crystals become
+    jaw-dropping art.
 description: The answers to so many questions sit right in front of us, around
   us, inside us - we've only begun to understand how our world works. Major
   advances in our understanding of and approach to health, disease, agriculture,
